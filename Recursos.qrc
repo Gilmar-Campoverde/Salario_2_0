@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/traducciones">
+        <file>Salario_2_0_en_US.qm</file>
+        <file>Salario_2_0_es_EC.qm</file>
+        <file>Salario_2_0_ja_JA.qm</file>
+    </qresource>
+    <qresource prefix="/Iconos">
+        <file>Recursos/calculator (1).png</file>
+        <file>Recursos/dinero.jpg</file>
+        <file>Recursos/exit.jpg</file>
+        <file>Recursos/guardar.png</file>
+        <file>Recursos/help.jpg</file>
+        <file>Recursos/new.png</file>
+        <file>Recursos/open-box.png</file>
+    </qresource>
+</RCC>
